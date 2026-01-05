@@ -22,7 +22,7 @@ public class MultidimensionalDemo {
             }
         }
 
-        // Output (print at last)
+        
         System.out.println("\nAll Students Marks:");
         for (int i = 0; i < students; i++) {
             System.out.print("Student " + (i + 1) + ": ");
