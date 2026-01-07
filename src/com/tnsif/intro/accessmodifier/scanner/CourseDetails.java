@@ -9,11 +9,11 @@ public class CourseDetails{
 	        System.out.print("Enter Student Roll Number: ");
 	        int rollNo = sc.nextInt();
 
-	        // String (single word)
+	        // String 
 	        System.out.print("Enter Course Code: ");
 	        String courseCode = sc.next();
 
-	        // String (full line)
+	        // String 
 	        sc.nextLine(); 
 	        System.out.print("Enter Student Name: ");
 	        String name = sc.nextLine();

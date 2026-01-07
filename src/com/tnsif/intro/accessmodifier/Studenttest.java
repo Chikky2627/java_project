@@ -8,9 +8,9 @@ public class Studenttest{
 
 	        Student s = new Student();
 
-	        System.out.println(s.rollNo);  // ✅ public
-	        System.out.println(s.name);    // ✅ protected
-	        System.out.println(s.marks);   // ✅ default
-	        // System.out.println(s.password); // ❌ private (error)
+	        System.out.println(s.rollNo);  
+	        System.out.println(s.name);    
+	        System.out.println(s.marks);   
+	        // System.out.println(s.password);
 	    }
 	}

@@ -10,6 +10,10 @@ public class StaticKeyword {
     	String CoursePrice="FREE";
     	System.out.println("CoursePrice:"+CoursePrice);
     }
+    public class Main extends StaticKeyword  {
+    	public void CourseDetails();
+    	
+    }
 	public static void main(String[] args) {
 		System.out.println("StudentName:"+StaticKeyword.StudentName);
 		StaticKeyword.CourseDetails();

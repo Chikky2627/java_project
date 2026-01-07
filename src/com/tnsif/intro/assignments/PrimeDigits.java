@@ -19,7 +19,7 @@ public class PrimeDigits {
 	            }
 
 	            if (isPrime) {
-	                System.out.print(num + " ");
+	                System.out.println(num + " ");
 	                count++;
 	            }
 
